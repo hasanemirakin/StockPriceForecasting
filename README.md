@@ -4,7 +4,7 @@ This is a study on applying LSTM based recurrent neural network architectures fo
 
 ### Data
 
-IBM Stock daily OHLCV data from 2000-01-01 to 18-11-2022 downloaded by yfinance library
+IBM Stock daily OHLCV data from 01-01-2000 to 18-11-2022 downloaded by yfinance library
 
 
 ### Instructions
