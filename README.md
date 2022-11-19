@@ -1,4 +1,4 @@
-## Stock Price Prediction with LSTM Based Models
+## Stock Price Forecasting with LSTM Based Models
 
 This is a study on applying LSTM based recurrent neural network architectures for forecasting daily closing prices of the IBM stock and evaluating the results of different architectures. Six different models each making use of LSTM cells but with architectural differences are trained on the same dataset, and their results are compared.
 
